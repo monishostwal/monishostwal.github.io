@@ -693,6 +693,7 @@ i.respons {
 /* ==========================================================================Portfolio========================================================================== */
 .swag {
 	padding:75px 0;
+	margin: 10px;
 }
 .swag h1 {
 	text-transform:uppercase;
@@ -781,6 +782,7 @@ img.grayscale:hover {
 }
 .overlay-effect .img i {
 	font-size:30px;
+	margin: 10px;
 }
 .overlay-effect .overlay {
 	bottom:0;
